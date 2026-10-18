@@ -1,16 +1,26 @@
-## Hi there 👋
+**Unity Developer / Full-Stack / Hardware & IoT інженер**
 
-<!--
-**erorr-404/erorr-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Розробник з інтересом до створення ігор та роботи із мікроконтролерами. Спеціалізуюся на веб-розробці, 2D-іграх та IoT-пристроях.
 
-Here are some ideas to get you started:
+📧 **E-mail:** [maksym.holub.kb.2025@lpnu.ua](mailto:maksym.holub.kb.2025@lpnu.ua) | 🐙 **GitHub:** [erorr-404](https://github.com/erorr-404)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Технічні навички
+* **Мови програмування:** C#, C/C++, Python, JavaScript, Rust
+* **Рушії та фреймворки:** Unity, Flask, FastAPI, Django, React, Arduino
+* **Апаратне забезпечення:** ESP32, Raspberry Pi, Arduino
+* **Інфраструктура та ОС:** Linux (адміністрування дистрибутивів, написання Bash-скриптів)
+
+## 🚀 Проєкти
+* **[Емулятор файлової системи CLI](https://github.com/erorr-404/rust-ram-fs)** — файлова система в оперативній пам’яті, написана на **Rust**.
+* **[Система аналізу телеметрії та 3D-візуалізації польотів БПЛА](https://github.com/erorr-404/Larp-Team-BEST-HACKath0n)** — розроблена на **C#** для хакатону BEST-HACKath0n-2026.
+* **Наземний гусеничний дрон «TankV2»** — гусенична платформа із керуванням з геймпаду через Bluetooth на базі **ESP-32**.
+* **Наземний дрон з камерою «Crab-2»** — розробка шасі та логіки керування на базі **ESP32-CAM** та **Arduino**.
+* **[ШІ Телеграм-бот](https://github.com/erorr-404/SmartTelegramBot)** — асистент для спілкування з користувачами на базі **Python** та локальної моделі **Ollama**.
+* **Веб-розробка:** [Розклад уроків](https://github.com/erorr-404/timetable) | [Сайт ради президента ліцею №4](https://github.com/erorr-404/rada-presentation).
+
+## 🎓 Освіта
+* **Кібербезпека та захист інформації** — *Національний університет «Львівська політехніка» (ІКТА)* | В процесі навчання
+* **Linux & Network Administration** — *Курс від компанії PortaOne*
+* **Середня освіта з відзнакою** — *Вінницький ліцей №4*
